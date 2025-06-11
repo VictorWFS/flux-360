@@ -1,5 +1,4 @@
 import '../styles/headerstyles.css'
-import React, { ReactNode } from "react";
 
 interface props {
     children: React.ReactNode
